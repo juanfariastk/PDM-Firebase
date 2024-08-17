@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370060112851",
+    "project_id": "praticapdm",
+    "storage_bucket": "praticapdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370060112851:android:e930dea19a37249e6a7526",
+        "android_client_info": {
+          "package_name": "com.example.pdm_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55Kosgj56lM-H55eyNzuSY4cUfmXxrPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
